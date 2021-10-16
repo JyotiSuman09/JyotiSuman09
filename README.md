@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JyotiSuman
 - 👀 I’m interested in competative programming
-- 🌱 I’m currently learning html and css courses
+- 🌱 I’m currently learning Js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Contact me on jyotisumanswexpprac@gmail.com 
 
 <!---
 JyotiSuman09/JyotiSuman09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
